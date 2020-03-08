@@ -1,0 +1,12 @@
+.idea/
+*.iml
+target/
+.gradle/
+gradle/
+gradlew
+gradlew.bat
+build/
+*.war
+repo/
+jquery-1.10.0-min.js
+node_modules
